@@ -46,6 +46,9 @@ pip install -r requirements.txt
 ### 4. Download Haarcascade
 Download the Haarcascade XML file for face detection from the [OpenCV GitHub repository](https://github.com/opencv/opencv) and place it in the project directory.
 
+### 5. Create a 'TrainingImage' Folder
+Before running the main_app.py, make sure to create a 'TrainingImage' folder in the project directory. This folder will store the captured images used for training the face recognition model.
+
 ---
 
 ## Usage
